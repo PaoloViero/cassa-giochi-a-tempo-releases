@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURVd1U2JsUmZOclJrWnJPVG5DU0o0MWFNOThWaHRvU2hseEZ2QWdVR1ljaERnVFoyMjAzYXArMFdqbFJLTmF3ejU5KzBlQmViRTk5bys2UTRsVlYxdGR4QzVZTTJXNWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjI2NTE2CWZpbGU6Q2Fzc2EgR2lvY2hpIGEgdGVtcG9fMS4wLjFfeDY0LXNldHVwLmV4ZQovN0tldm1iOHZoYXlheEk1ZWk4QzRPV2JBMlBLbGxaNlVWMFJkdU45L2F5eVNnL1dzcnVrRXR5SSszczJZa01mRmtyOElHaDNhcWVrL2RBMVIvSjBDQT09Cg==",
-                                             "url":  "https://github.com/PaoloViero/cassa-giochi-a-tempo-releases/releases/download/v1.0.1/Cassa.Giochi.a.tempo_1.0.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURVd1U2JsUmZOcmJVMGFCMmtMak90OFVPSzY4NEZoMlJtbDVLWSsrMFozTk9wVHYxaXRWK3ZLM1JyRkExMjcwanU1SzJmYzdmZ0tVQTEyK3JWZ01VQnRUMmZEK1ZFWEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjI5MDMxCWZpbGU6Q2Fzc2EgR2lvY2hpIGEgdGVtcG9fMS4wLjJfeDY0LXNldHVwLmV4ZQpBNkJYaUFEV1lleEtLSGp2U3dGU1lmbXlqWmJWZHVjbldIR3FEbXJjeVQzcEFRRGh3eFJoK3o2S0p4RXlWUTdkSGFrV2d5Vmt0Ykp3cmt2aXZVOTJDQT09Cg==",
+                                             "url":  "https://github.com/PaoloViero/cassa-giochi-a-tempo-releases/releases/download/v1.0.2/Cassa.Giochi.a.tempo_1.0.2_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-17T08:42:12Z",
-    "version":  "1.0.1",
-    "notes":  "Impostazioni con F10 (password Installatore) e scelta del monitor su cui aprire il programma."
+    "pub_date":  "2026-10-17T09:24:09Z",
+    "version":  "1.0.2",
+    "notes":  "Passaggio immediato tra Cassa e Control Panel (i due programmi restano aperti), una sola Cassa per PC, correzione del turno bloccato per un cassiere senza il permesso Giochi a Tempo."
 }

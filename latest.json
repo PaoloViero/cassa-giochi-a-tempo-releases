@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURVd1U2JsUmZOclhsMSt6ZU1YRFBaYlNmNmJjOE13bGdSKzloWmh0QTlVQTZ0N3BGT0hMeTdKamh5UnVSS1RrNW8reUdyRkl2UHNEWU5ldmJ1RU1Fd2Y0YXdtVWg2WWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjIyODUyCWZpbGU6Q2Fzc2EgR2lvY2hpIGEgdGVtcG9fMS4wLjBfeDY0LXNldHVwLmV4ZQpWN3gyV0RRelgxclUyMnZxWmtVdGNBRWxFNUU2MnZoMm04SC9xb0ZtMVlqWDllajdXcHFZTDA1c2FmVFZpdkR5cVRNZzB3VGNZeXNkSU9tQStwa25BQT09Cg==",
-                                             "url":  "https://github.com/PaoloViero/cassa-giochi-a-tempo-releases/releases/download/v1.0.0/Cassa.Giochi.a.tempo_1.0.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURVd1U2JsUmZOclJrWnJPVG5DU0o0MWFNOThWaHRvU2hseEZ2QWdVR1ljaERnVFoyMjAzYXArMFdqbFJLTmF3ejU5KzBlQmViRTk5bys2UTRsVlYxdGR4QzVZTTJXNWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjI2NTE2CWZpbGU6Q2Fzc2EgR2lvY2hpIGEgdGVtcG9fMS4wLjFfeDY0LXNldHVwLmV4ZQovN0tldm1iOHZoYXlheEk1ZWk4QzRPV2JBMlBLbGxaNlVWMFJkdU45L2F5eVNnL1dzcnVrRXR5SSszczJZa01mRmtyOElHaDNhcWVrL2RBMVIvSjBDQT09Cg==",
+                                             "url":  "https://github.com/PaoloViero/cassa-giochi-a-tempo-releases/releases/download/v1.0.1/Cassa.Giochi.a.tempo_1.0.1_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-17T07:41:35Z",
-    "version":  "1.0.0",
-    "notes":  "Prima versione di Cassa Giochi a tempo: giochi a tempo, bar, prenotazioni, turni, contabilita\u0027, tessere RFID, ricevute, aggiornamenti dal programma."
+    "pub_date":  "2026-10-17T08:42:12Z",
+    "version":  "1.0.1",
+    "notes":  "Impostazioni con F10 (password Installatore) e scelta del monitor su cui aprire il programma."
 }
